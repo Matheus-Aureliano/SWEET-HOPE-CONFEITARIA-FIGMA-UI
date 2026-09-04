@@ -8,7 +8,7 @@
 Este projeto foi desenvolvido para uma disciplina da faculdade com o objetivo de mapear a jornada de um cliente em um site de confeitaria, desde a apresentação da marca até o fluxo de compra.
 
 ### 📱 Estrutura das Páginas:
-- **Home:** Apresentação da marca com um carrossel horizontal de produtos em destaque.
+- **Home:** Apresentação da marca com um carrossel horizontal de produtos em destaque (a imagem exibe o primeiro item do carrossel em estado inicial).
 - **Serviços:** Catálogo completo com todas as opções de produtos e seus respectivos valores.
 - **Portfólio:** Informações essenciais e dados sobre a trajetória da empresa.
 - **Sobre:** Missão, Visão e Valores que norteiam a confeitaria.
